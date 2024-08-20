@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+This is my portfolio made of HTML and Github pages.
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Kindly visit the link below:
+https://aljon061095.github.io/portfolio/
+
